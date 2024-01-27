@@ -1,4 +1,4 @@
-#Theoretical physicist looking to share his new adventure in data science and machine learning!
+## Theoretical physicist looking to share his new adventure in data science and machine learning!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/gioele-botta-50b858a7) 
