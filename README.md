@@ -22,4 +22,4 @@ Featured in *Python Weekly* and shared on X from *PythonHub*.
 
 ---
 
-⭐ Always open to collaborations in open-source, research, and system design — feel free to reach out!
+⭐ Always open to collaborations in open-source, research, and system design, feel free to reach out!
