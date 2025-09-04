@@ -1,43 +1,25 @@
-# Hi there 👋
+# 👋 Hi there!
 
-I’m **Gioele Botta** — ex theoretical physicist turned developer, passionate about  
-**distributed systems**, **performance modeling**, and **open-source software**.
+I’m **Gioele Botta** ex theoretical physicist turned developer.  
+Passionate about **distributed systems**, **performance modeling**, and **open-source software**.
 
-🔭 Currently building **[AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow)** ⚡  
-A scenario-driven simulator to explore scalability, reliability, and trade-offs in modern distributed systems.  
-Featured in *Python Weekly* — AsyncFlow is my main open-source focus.
+##  AsyncFlow  
 
----
+[**AsyncFlow**](https://github.com/AsyncFlow-Sim/AsyncFlow) is my main open-source focus:  
+a scenario-driven simulator to explore scalability, reliability, and trade-offs in modern distributed systems.  
 
-## 🌐 Links
-
-[![CV](https://img.shields.io/badge/CV-PDF-green)](./cv_gioele.pdf) 
-[![Scholar](https://img.shields.io/badge/Google_Scholar-profile-red)](https://scholar.google.com/citations?user=uS84IxoAAAAJ&hl=i)
+Featured in *Python Weekly* and shared on X from *PythonHub*.  
+[![GitHub Repo stars](https://img.shields.io/github/stars/AsyncFlow-Sim/AsyncFlow?style=social)](https://github.com/AsyncFlow-Sim/AsyncFlow)
 
 
 
----
+## 🌐 Links & Contact  
 
-## 📬 Contact
-
-- 📧 [gioelebotta00@gmail.com](mailto:gioelebotta00@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gioele-botta-50b858a7/)  
+[![CV](https://img.shields.io/badge/-CV-43a047?style=for-the-badge)](./cv_gioele.pdf)
+[![SCHOLAR](https://img.shields.io/badge/-SCHOLAR-red?style=for-the-badge)](https://scholar.google.com/citations?user=uS84IxoAAAAJ&hl=it)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioele-botta-50b858a7/)
+[![EMAIL](https://img.shields.io/badge/-EMAIL-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gioelebotta00@gmail.com)
 
 ---
 
-⭐ Always open to collaborations in open-source, research, and system design.
-
-<!--
-**GioeleB00/GioeleB00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always open to collaborations in open-source, research, and system design — feel free to reach out!
