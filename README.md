@@ -15,7 +15,7 @@ Featured in *Python Weekly* and shared on X from *PythonHub*.
 
 ## 🌐 Links & Contact  
 
-[![CV](https://img.shields.io/badge/-CV-43a047?style=for-the-badge)](./cv_gioele.pdf)
+[![CV](https://img.shields.io/badge/-CV-43a047?style=for-the-badge)](./cv_gioele_git.pdf)
 [![SCHOLAR](https://img.shields.io/badge/-SCHOLAR-red?style=for-the-badge)](https://scholar.google.com/citations?user=uS84IxoAAAAJ&hl=it)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioele-botta-50b858a7/)
 [![EMAIL](https://img.shields.io/badge/-EMAIL-grey?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gioelebotta00@gmail.com)
