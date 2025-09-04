@@ -5,14 +5,16 @@ I’m **Gioele Botta** — ex theoretical physicist turned developer, passionate
 
 🔭 Currently building **[AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow)** ⚡  
 A scenario-driven simulator to explore scalability, reliability, and trade-offs in modern distributed systems.  
-Featured in *Python Weekly* and discussed by SRE leaders — AsyncFlow is my main open-source focus.
+Featured in *Python Weekly* — AsyncFlow is my main open-source focus.
 
 ---
 
 ## 🌐 Links
 
-[![CV](https://img.shields.io/badge/CV-PDF-green)](./cv_gioele.pdf)  
-[![Scholar](https://img.shields.io/badge/Google_Scholar-profile-lightgrey)](https://scholar.google.com/citations?user=uS84IxoAAAAJ&hl=it)
+[![CV](https://img.shields.io/badge/CV-PDF-green)](./cv_gioele.pdf) 
+[![Scholar](https://img.shields.io/badge/Google_Scholar-profile-red)](https://scholar.google.com/citations?user=uS84IxoAAAAJ&hl=i)
+
+
 
 ---
 
